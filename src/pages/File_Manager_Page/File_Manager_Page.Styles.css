@@ -1,0 +1,21 @@
+.File-Manager-Page{
+    background-color: rgb(255,255,255);
+    width: 80%;
+    height: 31.5rem;
+    border: 2px solid rgb(197, 195, 195);
+    border-radius: 4px;
+}
+.Main-Section{
+    display: flex;
+    width: 100%;
+    height: 86%;
+}
+.Section-One{
+    width: 30%;
+}
+.Section-Two{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    
+}

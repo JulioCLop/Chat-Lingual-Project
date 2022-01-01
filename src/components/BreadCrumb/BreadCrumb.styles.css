@@ -1,0 +1,22 @@
+.Breadcrumb-Section{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 13%;
+    padding: 0 0.2rem ;
+}
+
+.Breadcrumb-Section ul li:nth-child(2){
+margin-left: 0.5rem;
+
+}
+.Breadcrumb-Section ul li{
+    display: flex;
+    align-items: center;
+}
+
+.Home-Icon{
+   font-size: 16px;
+  height: 100%;
+  
+}
